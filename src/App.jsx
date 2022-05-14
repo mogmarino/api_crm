@@ -9,6 +9,7 @@ import EditarCliente from "./paginas/EditarCliente";
 import VerCliente from "./components/VerCliente";
 
 function App() {
+  console.log(import.meta.env);
   return (
     <BrowserRouter>
       <Routes>
