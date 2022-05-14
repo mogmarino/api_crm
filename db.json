@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "George Bull",
+      "empresa": "Stocks SA",
+      "email": "correo@correo.com",
+      "telefono": "123456",
+      "notas": "jorge es un chupa culo",
+      "id": 1
+    },
+    {
+      "nombre": "Miranda",
+      "empresa": "Pop para divertir",
+      "email": "correo@correo.com",
+      "telefono": "123456",
+      "notas": "lolo se la come",
+      "id": 3
+    },
+    {
+      "nombre": "Carla Andrea",
+      "empresa": "Panificados Carloncha",
+      "email": "correo@correo.com",
+      "telefono": "123456",
+      "notas": "masitas tonga",
+      "id": 4
+    }
+  ]
+}
